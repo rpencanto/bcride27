@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "59483202751",
+    "firebase_url": "https://bcride27.firebaseio.com",
+    "project_id": "bcride27",
+    "storage_bucket": "bcride27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59483202751:android:4c4dbb16869f6297",
+        "android_client_info": {
+          "package_name": "com.teqi.bcride27"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59483202751-i0oav7ismdooalhr3rrbe79vbp6bfhon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teqi.bcride27",
+            "certificate_hash": "488993454c5f263f8608be483286ac577757a10f"
+          }
+        },
+        {
+          "client_id": "59483202751-19gkdvas7qt589i1ipilue3985m19vpb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "59483202751-19gkdvas7qt589i1ipilue3985m19vpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMltLndLj3doqbQZONYt79PodkAknGDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59483202751-19gkdvas7qt589i1ipilue3985m19vpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
